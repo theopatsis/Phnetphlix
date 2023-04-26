@@ -1,2 +1,2 @@
 # Phnetphlix
-A tree multimap based movie recommender system able to accomodate 20K movies and 100K users. Class project for CS 32: Data Structures and Algorithms at UCLA.
+A tree multimap based movie recommender system able to accomodate 20K movies and 100K users. The program uses binary tree-based multimaps (implemented in treemm.h) and hash-based unordered maps to achieve optimal efficiency. It finds movies and users in the database in O(logN) time and generates the recommendations in 2 seconds. Class project for CS 32: Data Structures and Algorithms at UCLA.
